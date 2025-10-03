@@ -1,2 +1,0 @@
-# akerkar-neovim
-neovim
